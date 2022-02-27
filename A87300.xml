@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Great Turkes letter, sent vnto the Prince of Transilvania. Containing many impious, and unheard of blasphemies, against our saviour Christ, and fearefull threatnings against all Christendome. Translated out of the French copy printed at Paris. And re-printed here according to order.</title>
+            <author>İbrahim, Sultan of the Turks, 1615-1648.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87300</idno>
+            <idno type="STC">Wing I30</idno>
+            <idno type="STC">Thomason E296_3</idno>
+            <idno type="STC">ESTC R200200</idno>
+            <idno type="EEBO-CITATION">99861005</idno>
+            <idno type="PROQUEST">99861005</idno>
+            <idno type="VID">113132</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113132)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 49:E296[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Great Turkes letter, sent vnto the Prince of Transilvania. Containing many impious, and unheard of blasphemies, against our saviour Christ, and fearefull threatnings against all Christendome. Translated out of the French copy printed at Paris. And re-printed here according to order.</title>
+                  <author>İbrahim, Sultan of the Turks, 1615-1648.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Forcet,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Great Turke = Sultan Ibrahim.</note>
+                  <note>Annotation on Thomason copy: "Aug: 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Islam --  Relations --  Christianity --  Early works to 1800.</term>
+               <term>Turkey --  History --  1453-1683 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113132:1"/>
+            <!-- PDF PAGE 6 -->
+            <pb facs="tcp:113132:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <p>The Great Turkes LETTER, SENT VNTO THE PRINCE OF <hi>TRANSIL<g ref="char:V">Ʋ</g>ANIA.</hi> Containing many impious, and un<g ref="char:EOLhyphen"/>heard of Blaſphemies, againſt our Savi<g ref="char:EOLhyphen"/>our CHRIST; and fearefull threatnings <hi>againſt all Chriſtendome.</hi>
+            </p>
+            <p>
+               <hi>Tranſlated out of the</hi> French <hi>Copy Printed in</hi> PARIS. And Re-printed here according to <hi>Order.</hi>
+            </p>
+            <p>LONDON, Printed by T. FORCET, 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113132:2"/>
+            <!-- PDF PAGE 7 -->
+            <pb n="1" facs="tcp:113132:2"/>
+            <!-- PDF PAGE 7 -->
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <signed>
+                        <seg rend="decorInit">I</seg>BRAHIM <hi>the Sonne of the moſt famous, and most re<g ref="char:EOLhyphen"/>nouned of the Empe<g ref="char:EOLhyphen"/>rours, Son of GOD, Emperor of the</hi> Turks, <hi>of</hi> Greece, Ma<g ref="char:EOLhyphen"/>cedonia, <hi>and</hi> Moldavia; <hi>King in</hi> Sa<g ref="char:EOLhyphen"/>maria, Anglian, <hi>and of the Great and little</hi> Egypt, <hi>King of all the Inhabi<g ref="char:EOLhyphen"/>tants of the Earth, and of the earthly Paradice, a Conſecrated Prince, preſer<g ref="char:EOLhyphen"/>ver of the Cities of</hi> Hungaria, <hi>Provoſt of the earthly Paradice, Keeper of the Sepulcher of thy God, Lord of all the
+<pb n="2" facs="tcp:113132:3"/>
+                           <!-- PDF PAGE 8 -->Emperours in this World, who are from the</hi> Eaſt <hi>to the</hi> Weſt, <hi>King of all Kings, Lord of the Tree of life, Conquerour of</hi> Melonia, Anglian, <hi>Of the City of</hi> Por<g ref="char:EOLhyphen"/>cheviz. <hi>Great Perſecuter of the Chri<g ref="char:EOLhyphen"/>ſtians, and of all the wicked, the joy of the flouriſhing Tree. Provost, and Keeper of thy Crucified God; The Lord and hopes of the</hi> Pagans.</signed>
+                     <salute>
+                        <seg rend="decorInit">L</seg>ET Our Greeting be given to the Prince of <hi>Tranſilvania,</hi> if thou doeſt deſire it: &amp; if thou art our friend, and of our Magiſtrate alſo, unto whom we have given great Power.</salute>
+                  </opener>
+                  <p>Thou haſt a while ſince violated, and perſecuted Our friendſhip; though we have given thee no cauſe thereof; neither by Warre, nor by Battell: So that thou haſt taken a ſecret counſell with other Kings and thy Counſellors, to free thee from our Power: in which thou haſt done indiſcreetly. And
+<pb n="3" facs="tcp:113132:3"/>
+                     <!-- PDF PAGE 8 -->therefore, Thou, and thy people ought to feare, &amp; muſt expect nothing elſe, but death, which thou haſt prepared unto thy ſelfe. For, I tell thee, that I will get a victory upon thee, &amp; purſue thee from the <hi>Eaſt</hi> to the <hi>Weſt,</hi> and I will make my Majeſtie knovvn as fart as the end of the World. My deſignes ſhall be manifeſted unto thee, to thy owne ill for<g ref="char:EOLhyphen"/>tune: Which I let thee know, and I will have thee to acknowledge my great Power. And foraſmuch as thou putteſt thy truſt in ſome Townes, and Caſtles, I will deſtroy, &amp; ruinat all thou canſt behold with thy eyes: and it is in vaine for thee, either to expect any more amitie from Us, or to put any con<g ref="char:EOLhyphen"/>fidence in thy Walles. For I will deſtroy thee with thy owne people without any hin<g ref="char:EOLhyphen"/>derance I will plunder thee, and leave a me<g ref="char:EOLhyphen"/>morie of my bloudy ſword after me in the Countrey. That this thing may be known, and manifeſted to every one. I will moreover plant my owne Religion effectually therein, and deſtroy for ever thy Crucified God: whoſe wrath I feare not, and he cannot afloord you
+<pb n="4" facs="tcp:113132:4"/>
+                     <!-- PDF PAGE 9 -->any ſuccour to free you from my hands. I will beſides this couple thy Sacred Prieſts to Plowes: and make Dogs, and the wild beaſts to ſucke the breaſts of women. Thou ſhalt doe well and wiſely to leave the Reli<g ref="char:EOLhyphen"/>gion thou haſt; For, othervviſe, I vvill have you all burnt. Be thou ſatisfied vvith vvhat I ſay unto thee for this time. Thou maiſt un<g ref="char:EOLhyphen"/>derſtand me (if thou vvilt) ſo far as I declare thee my Word, and intent againſt thee.</p>
+                  <closer>
+                     <signed>Jbrahim, Hottoman, Trapetan.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>THeſe words ought to make us tremble: no, not tremble, but encourage us: not encourage us, but provoke our juſt wrath, to avenge the outrage and injury done to God, and his Son <hi>Ieſus Chriſt</hi> our Savi<g ref="char:EOLhyphen"/>our; by that <hi>Barbarian,</hi> who ſcornes Chriſts power, and ſeemes to challenge him to a comb<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te. Shall we not be ſtirred through the example of our Prede<g ref="char:EOLhyphen"/>ceſſours? That Gyant, that <hi>Goliah,</hi> is already at the gates of <hi>Tranſilvania,</hi> to paſſe from thence into <hi>Hun<g ref="char:EOLhyphen"/>garia.</hi>
+            </p>
+            <p>He is in perſon, and hath ſent his Army out of <hi>An<g ref="char:EOLhyphen"/>drinopolis,</hi> to thunder upon his neighbours. What hopes can <hi>Germany</hi> have, when hee hath conquered thoſe Countries? And who doubteth, but that hee will fall upon us, if <hi>Germany</hi> be once reduced under
+<pb n="5" facs="tcp:113132:4"/>
+               <!-- PDF PAGE 9 -->his power? But one may ſay, that he hath great and vaſte Countries to gaine, before he can come ſo farre. But ſhall we not take pitie of our brethren that are <hi>Chriſtians?</hi> Shall we be ſo baſe as to let that <hi>Infidel</hi> in<g ref="char:EOLhyphen"/>vade the Empire of the <hi>weſt,</hi> as he hath done that of the <hi>Eaſt?</hi> Shall our hearts be ſo frozen, as not to bee kindled with the zeale of avenging the injurie done to the Divine Majeſtie of God? Shall wee leave ſo ſhamfull a memory of us unto Poſterity, as that they may accuſe us, That wee were not able to keepe the depoſite, which our Anceſtors had left us? Let us then die like Chriſtians, Let us ſpend our lives for the defence of his cauſe that dyed for us. God will di<g ref="char:EOLhyphen"/>rect our hands in the day of battell, and will make our Armies to proſper: So that one ſhall purſue ten, ten an hundred, an hundred a thouſand, and a thou<g ref="char:EOLhyphen"/>ſand ſhall purſue ten thouſand.</p>
+            <p>You may have read in my <hi>Exchange Intelligencer,</hi> that the <hi>Grand Signor</hi> had a deſigne upon the Iſle of <hi>Maltha:</hi> but I have not as yet related unto you the occaſion, which had moved him to entertaine ſuch a deſigne. I will impart it unto you now.</p>
+            <p>There was a <hi>Ruſsia</hi> Gentlewoman, who did waite upon one of the <hi>Grand Signors Sultaneſſe</hi> of a rare beauty, and of extraordinary parts. He fell in love with the Gentlewoman, and got a ſonne by her. The <hi>Sultaneſs</hi> grew Jealous, for the extraordinary favours the <hi>Rusſia</hi> Gentlewoman did receive from the <hi>Grand Signor,</hi> and above all the reſt her owne Miſtriſſe. So that they did all conſpire againſt her life, and did give her Poyſon: which being not ſtrong enough could
+<pb n="6" facs="tcp:113132:5"/>
+               <!-- PDF PAGE 10 -->not make ſo ſoone an end of her, as they did expect. The Grand <hi>Signor</hi> took the Gentlewomans languiſh<g ref="char:EOLhyphen"/>ing ſickneſſe unto heart: and was exceedingly grieved to ſee that her young Babe was in danger of his life as well as the Mother. Hee therefore ſent them in Pilgrigmage unto <hi>Mequa,</hi> to his falſe Prophets Tombe, both to be healed, and the Child to be Cir<g ref="char:EOLhyphen"/>cumciſed there. The Knights of <hi>Maltha</hi> mett with them upon the Sea, whileſt they were a going to <hi>Mahumets Sepulchre,</hi> tooke and carried them both Priſoners into <hi>Maltha.</hi> Whereupon, the <hi>Grand Signor</hi> demanded Counſell of his <hi>Mufty,</hi> or high Prieſts, to know what hee was to doe in that buſi<g ref="char:EOLhyphen"/>neſſe. The <hi>Mufty,</hi> who doe alwaies give his Coun<g ref="char:EOLhyphen"/>ſels and Anſwers, according as he knowes which way the <hi>Grand Signor</hi> is inclined. Counſelled him, that ſince his Love, and his Sonne were taken by the <hi>Malteſi,</hi> in an Hoſtile way, he was to ſet them at li<g ref="char:EOLhyphen"/>berty by force of Armes. We that are Chriſtians, doe uſe to pay a ranſome for our brethren; to redeem them from under the <hi>Turkiſh</hi> ſlavery.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
